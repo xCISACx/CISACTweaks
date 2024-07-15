@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "vC6Pvhdl3W/Kl2bg0EiL/aVs5doxL1XMsERbFzlrpACkpdiQOOprUQL7P1+7/CDj+MXT+8GRbqnKlPGdZObUJQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Phoenix\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\CISACTweaks\\CISACTweaks.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Phoenix\\.nuget\\packages\\tmodloader.codeassist\\0.1.5\\tmodloader.codeassist.0.1.5.nupkg.sha512"
+  ],
+  "logs": []
+}

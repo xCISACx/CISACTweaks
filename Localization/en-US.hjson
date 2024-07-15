@@ -1,0 +1,36 @@
+Mods: {
+	CISACTweaks: {
+		Config: {
+		    DropsHeader: Drops
+		    
+		    NoDropRestrictionsToggle:{
+                Label: Disable Drop Restrictions
+                Tooltip: Disables Hardmode, Master and Expert Mode Drop Restrictions for Every Drop
+                }
+                
+            NormalModeBossBagsToggle:{
+                Label: Normal Mode Boss Bags
+                Tooltip: Disables Master and Expert Mode Drop Restrictions for Boss Bags
+                }
+		
+			SlotsHeader: Slots
+
+			MasterSlotToggle: {
+				Label: Enable Master Slot
+				Tooltip: Enables or disables the Master Slot
+				}
+
+			DemonSlotToggle: {
+				Label: Enable Demon Slot
+				Tooltip: Enables or disables the Demon Slot
+				}
+
+			ProjectilesHeader: Projectiles
+
+			DisableProjectilesThroughWallsToggle: {
+				Label: Disable Projectiles Going Through Walls
+				Tooltip: Prevents Enemy Projectiles From Going Through Walls
+				}
+			}
+		}
+	}
